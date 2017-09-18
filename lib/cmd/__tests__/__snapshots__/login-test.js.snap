@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`login subscriber error 1`] = `
+Array [
+  Array [
+    "
+  error
+",
+  ],
+]
+`;
+
+exports[`login subscriber ok 1`] = `
+Array [
+  Array [
+    "
+  logged in as name
+",
+  ],
+]
+`;
