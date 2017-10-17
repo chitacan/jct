@@ -1,6 +1,6 @@
 {
   "name": "jct",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "useful jira cli tools",
   "bin": {
     "jct": "bin/index.js"
